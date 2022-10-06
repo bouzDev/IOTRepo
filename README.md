@@ -3,7 +3,8 @@
 ## Installeer de Arduino IO libraries
 
 1. In de tab klikken op Library Manager
-2. Zoek op Adafruit IO Arduino
+2. Zoek op Adafruit IO Arduino ()
+   3
 
 ## Sluit NODEMCU aan
 
@@ -13,3 +14,12 @@ Toen ik mijn nodeMCU weer aan wilde sluiten kon Arduino IDE programma niet herke
 2. Tools -> Port -> dev/cu.Bluetooth
 
 Toen werkte de connectie weer
+
+# IOTRepo
+
+<details open>
+  <summary>Bronnen</summary>
+
+1. google.com
+
+</details>
